@@ -1,0 +1,7 @@
+tensorflow
+torch
+scikit-learn
+opencv-python
+nltk
+transformers
+streamlit
